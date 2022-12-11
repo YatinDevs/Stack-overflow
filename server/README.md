@@ -1,12 +1,10 @@
-# 'yarn install'
- 
+# 'npm install' 
  use the above command on client side to install dependancies
-
 
  # 'npm install'
  use the above command on the server side to install dependenccies
 
- # 'yarn start'
+ # 'npm start'
  use the above command on client side to run client
 
   # 'npm start'
